@@ -1,1 +1,2 @@
-# first-repository
+hi there 
+my name is Mena Phil
